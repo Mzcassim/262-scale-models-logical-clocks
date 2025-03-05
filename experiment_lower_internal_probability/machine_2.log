@@ -1,133 +1,268 @@
-2025-03-01 23:19:06.f - Starting machine 2 with clock rate 2 ticks/second
-2025-03-01 23:19:06.f - Internal event range: (4, 5)
-2025-03-01 23:19:06.f - INTERNAL EVENT - System time: 1740889146.814388, Logical clock: 1
-2025-03-01 23:19:07.f - INTERNAL EVENT - System time: 1740889147.319314, Logical clock: 2
-2025-03-01 23:19:07.f - SEND to 5000 - System time: 1740889147.819752, Logical clock: 3
-2025-03-01 23:19:08.f - RECEIVE from 64119 - System time: 1740889148.324641, Queue length: 0, Logical clock: 8
-2025-03-01 23:19:08.f - RECEIVE from 64119 - System time: 1740889148.824713, Queue length: 0, Logical clock: 9
-2025-03-01 23:19:09.f - SEND to 5000 - System time: 1740889149.327169, Logical clock: 10
-2025-03-01 23:19:09.f - RECEIVE from 64119 - System time: 1740889149.828064, Queue length: 0, Logical clock: 15
-2025-03-01 23:19:10.f - SEND to 5001 - System time: 1740889150.333387, Logical clock: 16
-2025-03-01 23:19:10.f - RECEIVE from 64119 - System time: 1740889150.838440, Queue length: 0, Logical clock: 19
-2025-03-01 23:19:11.f - SEND to 5000 - System time: 1740889151.340787, Logical clock: 20
-2025-03-01 23:19:11.f - RECEIVE from 49518 - System time: 1740889151.841360, Queue length: 0, Logical clock: 21
-2025-03-01 23:19:12.f - RECEIVE from 64119 - System time: 1740889152.344033, Queue length: 0, Logical clock: 27
-2025-03-01 23:19:12.f - INTERNAL EVENT - System time: 1740889152.847941, Logical clock: 28
-2025-03-01 23:19:13.f - INTERNAL EVENT - System time: 1740889153.347981, Logical clock: 29
-2025-03-01 23:19:13.f - INTERNAL EVENT - System time: 1740889153.850557, Logical clock: 30
-2025-03-01 23:19:14.f - INTERNAL EVENT - System time: 1740889154.350630, Logical clock: 31
-2025-03-01 23:19:14.f - INTERNAL EVENT - System time: 1740889154.850676, Logical clock: 32
-2025-03-01 23:19:15.f - INTERNAL EVENT - System time: 1740889155.352101, Logical clock: 33
-2025-03-01 23:19:15.f - SEND to 5000 - System time: 1740889155.853649, Logical clock: 34
-2025-03-01 23:19:15.f - SEND to 5001 - System time: 1740889155.853814, Logical clock: 35
-2025-03-01 23:19:16.f - RECEIVE from 64119 - System time: 1740889156.358858, Queue length: 0, Logical clock: 50
-2025-03-01 23:19:16.f - RECEIVE from 64119 - System time: 1740889156.861709, Queue length: 0, Logical clock: 51
-2025-03-01 23:19:17.f - RECEIVE from 64119 - System time: 1740889157.363234, Queue length: 0, Logical clock: 53
-2025-03-01 23:19:17.f - INTERNAL EVENT - System time: 1740889157.868285, Logical clock: 54
-2025-03-01 23:19:18.f - RECEIVE from 64119 - System time: 1740889158.368903, Queue length: 1, Logical clock: 59
-2025-03-01 23:19:18.f - RECEIVE from 64119 - System time: 1740889158.869290, Queue length: 0, Logical clock: 61
-2025-03-01 23:19:19.f - RECEIVE from 64119 - System time: 1740889159.369912, Queue length: 0, Logical clock: 67
-2025-03-01 23:19:19.f - INTERNAL EVENT - System time: 1740889159.873859, Logical clock: 68
-2025-03-01 23:19:20.f - RECEIVE from 49518 - System time: 1740889160.373946, Queue length: 0, Logical clock: 69
-2025-03-01 23:19:20.f - INTERNAL EVENT - System time: 1740889160.877536, Logical clock: 70
-2025-03-01 23:19:21.f - INTERNAL EVENT - System time: 1740889161.378344, Logical clock: 71
-2025-03-01 23:19:21.f - INTERNAL EVENT - System time: 1740889161.878787, Logical clock: 72
-2025-03-01 23:19:22.f - INTERNAL EVENT - System time: 1740889162.379060, Logical clock: 73
-2025-03-01 23:19:22.f - INTERNAL EVENT - System time: 1740889162.879380, Logical clock: 74
-2025-03-01 23:19:23.f - INTERNAL EVENT - System time: 1740889163.384473, Logical clock: 75
-2025-03-01 23:19:23.f - INTERNAL EVENT - System time: 1740889163.884510, Logical clock: 76
-2025-03-01 23:19:24.f - RECEIVE from 64119 - System time: 1740889164.384570, Queue length: 0, Logical clock: 92
-2025-03-01 23:19:24.f - INTERNAL EVENT - System time: 1740889164.884616, Logical clock: 93
-2025-03-01 23:19:25.f - RECEIVE from 64119 - System time: 1740889165.384659, Queue length: 0, Logical clock: 97
-2025-03-01 23:19:25.f - SEND to 5000 - System time: 1740889165.886722, Logical clock: 98
-2025-03-01 23:19:25.f - SEND to 5001 - System time: 1740889165.886934, Logical clock: 99
-2025-03-01 23:19:26.f - RECEIVE from 64119 - System time: 1740889166.387827, Queue length: 0, Logical clock: 103
-2025-03-01 23:19:26.f - INTERNAL EVENT - System time: 1740889166.890594, Logical clock: 104
-2025-03-01 23:19:27.f - RECEIVE from 49518 - System time: 1740889167.393145, Queue length: 0, Logical clock: 105
-2025-03-01 23:19:27.f - INTERNAL EVENT - System time: 1740889167.895215, Logical clock: 106
-2025-03-01 23:19:28.f - RECEIVE from 64119 - System time: 1740889168.397020, Queue length: 0, Logical clock: 112
-2025-03-01 23:19:28.f - RECEIVE from 64119 - System time: 1740889168.897896, Queue length: 0, Logical clock: 116
-2025-03-01 23:19:29.f - INTERNAL EVENT - System time: 1740889169.397943, Logical clock: 117
-2025-03-01 23:19:29.f - RECEIVE from 64119 - System time: 1740889169.902967, Queue length: 0, Logical clock: 121
-2025-03-01 23:19:30.f - INTERNAL EVENT - System time: 1740889170.404508, Logical clock: 122
-2025-03-01 23:19:30.f - SEND to 5000 - System time: 1740889170.907513, Logical clock: 123
-2025-03-01 23:19:30.f - SEND to 5001 - System time: 1740889170.907710, Logical clock: 124
-2025-03-01 23:19:31.f - INTERNAL EVENT - System time: 1740889171.411763, Logical clock: 125
-2025-03-01 23:19:31.f - RECEIVE from 49518 - System time: 1740889171.916809, Queue length: 0, Logical clock: 127
-2025-03-01 23:19:32.f - INTERNAL EVENT - System time: 1740889172.417304, Logical clock: 128
-2025-03-01 23:19:32.f - RECEIVE from 64119 - System time: 1740889172.918394, Queue length: 1, Logical clock: 136
-2025-03-01 23:19:33.f - RECEIVE from 64119 - System time: 1740889173.418445, Queue length: 0, Logical clock: 137
-2025-03-01 23:19:33.f - SEND to 5001 - System time: 1740889173.922321, Logical clock: 138
-2025-03-01 23:19:34.f - INTERNAL EVENT - System time: 1740889174.423140, Logical clock: 139
-2025-03-01 23:19:34.f - RECEIVE from 64119 - System time: 1740889174.926130, Queue length: 0, Logical clock: 149
-2025-03-01 23:19:35.f - SEND to 5000 - System time: 1740889175.427412, Logical clock: 150
-2025-03-01 23:19:35.f - INTERNAL EVENT - System time: 1740889175.928247, Logical clock: 151
-2025-03-01 23:19:36.f - RECEIVE from 49518 - System time: 1740889176.433309, Queue length: 0, Logical clock: 152
-2025-03-01 23:19:36.f - INTERNAL EVENT - System time: 1740889176.938399, Logical clock: 153
-2025-03-01 23:19:37.f - RECEIVE from 64119 - System time: 1740889177.440609, Queue length: 1, Logical clock: 161
-2025-03-01 23:19:37.f - RECEIVE from 49518 - System time: 1740889177.941072, Queue length: 0, Logical clock: 162
-2025-03-01 23:19:38.f - INTERNAL EVENT - System time: 1740889178.446128, Logical clock: 163
-2025-03-01 23:19:38.f - SEND to 5000 - System time: 1740889178.951499, Logical clock: 164
-2025-03-01 23:19:38.f - SEND to 5001 - System time: 1740889178.951728, Logical clock: 165
-2025-03-01 23:19:39.f - INTERNAL EVENT - System time: 1740889179.451770, Logical clock: 166
-2025-03-01 23:19:39.f - RECEIVE from 64119 - System time: 1740889179.953070, Queue length: 0, Logical clock: 174
-2025-03-01 23:19:40.f - SEND to 5000 - System time: 1740889180.454297, Logical clock: 175
-2025-03-01 23:19:40.f - RECEIVE from 64119 - System time: 1740889180.957214, Queue length: 0, Logical clock: 181
-2025-03-01 23:19:41.f - SEND to 5000 - System time: 1740889181.457517, Logical clock: 182
-2025-03-01 23:19:41.f - SEND to 5001 - System time: 1740889181.457671, Logical clock: 183
-2025-03-01 23:19:41.f - INTERNAL EVENT - System time: 1740889181.962702, Logical clock: 184
-2025-03-01 23:19:42.f - RECEIVE from 64119 - System time: 1740889182.467740, Queue length: 0, Logical clock: 189
-2025-03-01 23:19:42.f - RECEIVE from 64119 - System time: 1740889182.972811, Queue length: 0, Logical clock: 191
-2025-03-01 23:19:43.f - RECEIVE from 64119 - System time: 1740889183.473921, Queue length: 0, Logical clock: 195
-2025-03-01 23:19:43.f - RECEIVE from 64119 - System time: 1740889183.973971, Queue length: 0, Logical clock: 197
-2025-03-01 23:19:44.f - INTERNAL EVENT - System time: 1740889184.474709, Logical clock: 198
-2025-03-01 23:19:44.f - RECEIVE from 64119 - System time: 1740889184.976153, Queue length: 0, Logical clock: 205
-2025-03-01 23:19:45.f - RECEIVE from 64119 - System time: 1740889185.476215, Queue length: 0, Logical clock: 207
-2025-03-01 23:19:45.f - INTERNAL EVENT - System time: 1740889185.976478, Logical clock: 208
-2025-03-01 23:19:46.f - RECEIVE from 64119 - System time: 1740889186.481520, Queue length: 0, Logical clock: 211
-2025-03-01 23:19:46.f - RECEIVE from 49518 - System time: 1740889186.981609, Queue length: 0, Logical clock: 212
-2025-03-01 23:19:47.f - RECEIVE from 64119 - System time: 1740889187.481686, Queue length: 0, Logical clock: 217
-2025-03-01 23:19:47.f - SEND to 5000 - System time: 1740889187.982021, Logical clock: 218
-2025-03-01 23:19:47.f - SEND to 5001 - System time: 1740889187.982219, Logical clock: 219
-2025-03-01 23:19:48.f - INTERNAL EVENT - System time: 1740889188.483717, Logical clock: 220
-2025-03-01 23:19:48.f - INTERNAL EVENT - System time: 1740889188.986146, Logical clock: 221
-2025-03-01 23:19:49.f - SEND to 5000 - System time: 1740889189.487150, Logical clock: 222
-2025-03-01 23:19:49.f - SEND to 5001 - System time: 1740889189.487348, Logical clock: 223
-2025-03-01 23:19:49.f - INTERNAL EVENT - System time: 1740889189.990610, Logical clock: 224
-2025-03-01 23:19:50.f - INTERNAL EVENT - System time: 1740889190.495646, Logical clock: 225
-2025-03-01 23:19:50.f - RECEIVE from 64119 - System time: 1740889190.997899, Queue length: 0, Logical clock: 236
-2025-03-01 23:19:51.f - SEND to 5001 - System time: 1740889191.503158, Logical clock: 237
-2025-03-01 23:19:52.f - INTERNAL EVENT - System time: 1740889192.003955, Logical clock: 238
-2025-03-01 23:19:52.f - RECEIVE from 64119 - System time: 1740889192.507118, Queue length: 1, Logical clock: 242
-2025-03-01 23:19:53.f - RECEIVE from 64119 - System time: 1740889193.011090, Queue length: 0, Logical clock: 244
-2025-03-01 23:19:53.f - RECEIVE from 64119 - System time: 1740889193.511580, Queue length: 0, Logical clock: 248
-2025-03-01 23:19:54.f - INTERNAL EVENT - System time: 1740889194.011652, Logical clock: 249
-2025-03-01 23:19:54.f - SEND to 5000 - System time: 1740889194.511960, Logical clock: 250
-2025-03-01 23:19:55.f - INTERNAL EVENT - System time: 1740889195.013388, Logical clock: 251
-2025-03-01 23:19:55.f - RECEIVE from 64119 - System time: 1740889195.513475, Queue length: 0, Logical clock: 260
-2025-03-01 23:19:56.f - RECEIVE from 64119 - System time: 1740889196.013569, Queue length: 0, Logical clock: 262
-2025-03-01 23:19:56.f - INTERNAL EVENT - System time: 1740889196.518044, Logical clock: 263
-2025-03-01 23:19:57.f - INTERNAL EVENT - System time: 1740889197.018096, Logical clock: 264
-2025-03-01 23:19:57.f - RECEIVE from 64119 - System time: 1740889197.518186, Queue length: 0, Logical clock: 271
-2025-03-01 23:19:58.f - SEND to 5000 - System time: 1740889198.018514, Logical clock: 272
-2025-03-01 23:19:58.f - SEND to 5001 - System time: 1740889198.018760, Logical clock: 273
-2025-03-01 23:19:58.f - INTERNAL EVENT - System time: 1740889198.520874, Logical clock: 274
-2025-03-01 23:19:59.f - RECEIVE from 64119 - System time: 1740889199.024844, Queue length: 0, Logical clock: 279
-2025-03-01 23:19:59.f - RECEIVE from 64119 - System time: 1740889199.525252, Queue length: 0, Logical clock: 282
-2025-03-01 23:20:00.f - INTERNAL EVENT - System time: 1740889200.030304, Logical clock: 283
-2025-03-01 23:20:00.f - INTERNAL EVENT - System time: 1740889200.535343, Logical clock: 284
-2025-03-01 23:20:01.f - INTERNAL EVENT - System time: 1740889201.040363, Logical clock: 285
-2025-03-01 23:20:01.f - RECEIVE from 64119 - System time: 1740889201.540658, Queue length: 0, Logical clock: 293
-2025-03-01 23:20:02.f - RECEIVE from 64119 - System time: 1740889202.040753, Queue length: 0, Logical clock: 297
-2025-03-01 23:20:02.f - SEND to 5001 - System time: 1740889202.546038, Logical clock: 298
-2025-03-01 23:20:03.f - SEND to 5000 - System time: 1740889203.046918, Logical clock: 299
-2025-03-01 23:20:03.f - SEND to 5001 - System time: 1740889203.047068, Logical clock: 300
-2025-03-01 23:20:03.f - INTERNAL EVENT - System time: 1740889203.552100, Logical clock: 301
-2025-03-01 23:20:04.f - INTERNAL EVENT - System time: 1740889204.057163, Logical clock: 302
-2025-03-01 23:20:04.f - INTERNAL EVENT - System time: 1740889204.557319, Logical clock: 303
-2025-03-01 23:20:05.f - RECEIVE from 64119 - System time: 1740889205.057386, Queue length: 1, Logical clock: 312
-2025-03-01 23:20:05.f - RECEIVE from 49518 - System time: 1740889205.558274, Queue length: 0, Logical clock: 313
-2025-03-01 23:20:06.f - SEND to 5000 - System time: 1740889206.059612, Logical clock: 314
-2025-03-01 23:20:06.f - SEND to 5001 - System time: 1740889206.059786, Logical clock: 315
-2025-03-01 23:20:06.f - RECEIVE from 64119 - System time: 1740889206.559842, Queue length: 0, Logical clock: 320
-2025-03-01 23:20:07.f - Machine 2 shutdown
+2025-03-05 14:34:28.f - Starting machine 2 with clock rate 6 ticks/second
+2025-03-05 14:34:28.f - Internal event range: (4, 5)
+2025-03-05 14:34:28.f - INTERNAL EVENT - System time: 1741203268.229740, Logical clock: 1
+2025-03-05 14:34:28.f - INTERNAL EVENT - System time: 1741203268.502812, Logical clock: 2
+2025-03-05 14:34:28.f - RECEIVE from 50193 - System time: 1741203268.674529, Queue length: 0, Logical clock: 3
+2025-03-05 14:34:28.f - SEND to 5000 - System time: 1741203268.951331, Logical clock: 4
+2025-03-05 14:34:28.f - SEND to 5001 - System time: 1741203268.951946, Logical clock: 5
+2025-03-05 14:34:29.f - INTERNAL EVENT - System time: 1741203269.225893, Logical clock: 6
+2025-03-05 14:34:29.f - INTERNAL EVENT - System time: 1741203269.494972, Logical clock: 7
+2025-03-05 14:34:29.f - INTERNAL EVENT - System time: 1741203269.766624, Logical clock: 8
+2025-03-05 14:34:30.f - INTERNAL EVENT - System time: 1741203270.036598, Logical clock: 9
+2025-03-05 14:34:30.f - SEND to 5000 - System time: 1741203270.307071, Logical clock: 10
+2025-03-05 14:34:30.f - INTERNAL EVENT - System time: 1741203270.580040, Logical clock: 11
+2025-03-05 14:34:30.f - RECEIVE from 50193 - System time: 1741203270.749812, Queue length: 0, Logical clock: 12
+2025-03-05 14:34:31.f - INTERNAL EVENT - System time: 1741203271.022862, Logical clock: 13
+2025-03-05 14:34:31.f - INTERNAL EVENT - System time: 1741203271.298856, Logical clock: 14
+2025-03-05 14:34:31.f - INTERNAL EVENT - System time: 1741203271.573389, Logical clock: 15
+2025-03-05 14:34:31.f - RECEIVE from 50193 - System time: 1741203271.829777, Queue length: 0, Logical clock: 17
+2025-03-05 14:34:32.f - INTERNAL EVENT - System time: 1741203272.102502, Logical clock: 18
+2025-03-05 14:34:32.f - SEND to 5000 - System time: 1741203272.376714, Logical clock: 19
+2025-03-05 14:34:32.f - SEND to 5001 - System time: 1741203272.377151, Logical clock: 20
+2025-03-05 14:34:32.f - INTERNAL EVENT - System time: 1741203272.649529, Logical clock: 21
+2025-03-05 14:34:32.f - RECEIVE from 60538 - System time: 1741203272.818512, Queue length: 0, Logical clock: 22
+2025-03-05 14:34:33.f - INTERNAL EVENT - System time: 1741203273.091654, Logical clock: 23
+2025-03-05 14:34:33.f - SEND to 5001 - System time: 1741203273.359924, Logical clock: 24
+2025-03-05 14:34:33.f - RECEIVE from 50193 - System time: 1741203273.528466, Queue length: 0, Logical clock: 25
+2025-03-05 14:34:33.f - INTERNAL EVENT - System time: 1741203273.801440, Logical clock: 26
+2025-03-05 14:34:33.f - RECEIVE from 50193 - System time: 1741203273.973485, Queue length: 0, Logical clock: 27
+2025-03-05 14:34:34.f - RECEIVE from 50193 - System time: 1741203274.143831, Queue length: 0, Logical clock: 28
+2025-03-05 14:34:34.f - INTERNAL EVENT - System time: 1741203274.414768, Logical clock: 29
+2025-03-05 14:34:34.f - RECEIVE from 50193 - System time: 1741203274.582904, Queue length: 0, Logical clock: 30
+2025-03-05 14:34:34.f - INTERNAL EVENT - System time: 1741203274.853031, Logical clock: 31
+2025-03-05 14:34:35.f - RECEIVE from 50193 - System time: 1741203275.025026, Queue length: 0, Logical clock: 32
+2025-03-05 14:34:35.f - RECEIVE from 60538 - System time: 1741203275.209301, Queue length: 0, Logical clock: 33
+2025-03-05 14:34:35.f - INTERNAL EVENT - System time: 1741203275.480284, Logical clock: 34
+2025-03-05 14:34:35.f - RECEIVE from 60538 - System time: 1741203275.652381, Queue length: 0, Logical clock: 35
+2025-03-05 14:34:35.f - INTERNAL EVENT - System time: 1741203275.925572, Logical clock: 36
+2025-03-05 14:34:36.f - INTERNAL EVENT - System time: 1741203276.197201, Logical clock: 37
+2025-03-05 14:34:36.f - RECEIVE from 50193 - System time: 1741203276.403120, Queue length: 0, Logical clock: 38
+2025-03-05 14:34:36.f - SEND to 5000 - System time: 1741203276.672760, Logical clock: 39
+2025-03-05 14:34:36.f - INTERNAL EVENT - System time: 1741203276.945196, Logical clock: 40
+2025-03-05 14:34:37.f - RECEIVE from 50193 - System time: 1741203277.117199, Queue length: 0, Logical clock: 41
+2025-03-05 14:34:37.f - RECEIVE from 60538 - System time: 1741203277.285985, Queue length: 0, Logical clock: 42
+2025-03-05 14:34:37.f - RECEIVE from 60538 - System time: 1741203277.455562, Queue length: 0, Logical clock: 43
+2025-03-05 14:34:37.f - INTERNAL EVENT - System time: 1741203277.728257, Logical clock: 44
+2025-03-05 14:34:37.f - INTERNAL EVENT - System time: 1741203277.997205, Logical clock: 45
+2025-03-05 14:34:38.f - RECEIVE from 60538 - System time: 1741203278.164681, Queue length: 0, Logical clock: 46
+2025-03-05 14:34:38.f - INTERNAL EVENT - System time: 1741203278.438170, Logical clock: 47
+2025-03-05 14:34:38.f - RECEIVE from 50193 - System time: 1741203278.608091, Queue length: 0, Logical clock: 48
+2025-03-05 14:34:38.f - INTERNAL EVENT - System time: 1741203278.879911, Logical clock: 49
+2025-03-05 14:34:39.f - INTERNAL EVENT - System time: 1741203279.152867, Logical clock: 50
+2025-03-05 14:34:39.f - RECEIVE from 60538 - System time: 1741203279.324825, Queue length: 0, Logical clock: 51
+2025-03-05 14:34:39.f - SEND to 5000 - System time: 1741203279.598621, Logical clock: 52
+2025-03-05 14:34:39.f - SEND to 5000 - System time: 1741203279.872105, Logical clock: 53
+2025-03-05 14:34:40.f - INTERNAL EVENT - System time: 1741203280.144349, Logical clock: 54
+2025-03-05 14:34:40.f - INTERNAL EVENT - System time: 1741203280.414041, Logical clock: 55
+2025-03-05 14:34:40.f - SEND to 5000 - System time: 1741203280.687052, Logical clock: 56
+2025-03-05 14:34:40.f - SEND to 5001 - System time: 1741203280.687873, Logical clock: 57
+2025-03-05 14:34:40.f - SEND to 5001 - System time: 1741203280.960002, Logical clock: 58
+2025-03-05 14:34:41.f - RECEIVE from 60538 - System time: 1741203281.131951, Queue length: 0, Logical clock: 59
+2025-03-05 14:34:41.f - RECEIVE from 50193 - System time: 1741203281.308741, Queue length: 0, Logical clock: 60
+2025-03-05 14:34:41.f - SEND to 5000 - System time: 1741203281.582787, Logical clock: 61
+2025-03-05 14:34:41.f - SEND to 5000 - System time: 1741203281.855802, Logical clock: 62
+2025-03-05 14:34:41.f - SEND to 5001 - System time: 1741203281.857337, Logical clock: 63
+2025-03-05 14:34:42.f - RECEIVE from 60538 - System time: 1741203282.027401, Queue length: 0, Logical clock: 64
+2025-03-05 14:34:42.f - INTERNAL EVENT - System time: 1741203282.298834, Logical clock: 65
+2025-03-05 14:34:42.f - INTERNAL EVENT - System time: 1741203282.573307, Logical clock: 66
+2025-03-05 14:34:42.f - RECEIVE from 60538 - System time: 1741203282.779245, Queue length: 0, Logical clock: 68
+2025-03-05 14:34:43.f - INTERNAL EVENT - System time: 1741203283.050974, Logical clock: 69
+2025-03-05 14:34:43.f - INTERNAL EVENT - System time: 1741203283.324322, Logical clock: 70
+2025-03-05 14:34:43.f - SEND to 5000 - System time: 1741203283.598368, Logical clock: 71
+2025-03-05 14:34:43.f - SEND to 5001 - System time: 1741203283.871417, Logical clock: 72
+2025-03-05 14:34:44.f - INTERNAL EVENT - System time: 1741203284.143474, Logical clock: 73
+2025-03-05 14:34:44.f - SEND to 5000 - System time: 1741203284.414546, Logical clock: 74
+2025-03-05 14:34:44.f - SEND to 5001 - System time: 1741203284.415503, Logical clock: 75
+2025-03-05 14:34:44.f - SEND to 5000 - System time: 1741203284.688677, Logical clock: 76
+2025-03-05 14:34:44.f - INTERNAL EVENT - System time: 1741203284.961435, Logical clock: 77
+2025-03-05 14:34:45.f - RECEIVE from 50193 - System time: 1741203285.132240, Queue length: 0, Logical clock: 78
+2025-03-05 14:34:45.f - RECEIVE from 50193 - System time: 1741203285.304506, Queue length: 0, Logical clock: 79
+2025-03-05 14:34:45.f - INTERNAL EVENT - System time: 1741203285.576911, Logical clock: 80
+2025-03-05 14:34:45.f - INTERNAL EVENT - System time: 1741203285.849806, Logical clock: 81
+2025-03-05 14:34:46.f - SEND to 5001 - System time: 1741203286.121056, Logical clock: 82
+2025-03-05 14:34:46.f - INTERNAL EVENT - System time: 1741203286.389327, Logical clock: 83
+2025-03-05 14:34:46.f - INTERNAL EVENT - System time: 1741203286.661585, Logical clock: 84
+2025-03-05 14:34:46.f - INTERNAL EVENT - System time: 1741203286.933231, Logical clock: 85
+2025-03-05 14:34:47.f - INTERNAL EVENT - System time: 1741203287.201965, Logical clock: 86
+2025-03-05 14:34:47.f - INTERNAL EVENT - System time: 1741203287.474771, Logical clock: 87
+2025-03-05 14:34:47.f - RECEIVE from 60538 - System time: 1741203287.660164, Queue length: 0, Logical clock: 88
+2025-03-05 14:34:47.f - INTERNAL EVENT - System time: 1741203287.933618, Logical clock: 89
+2025-03-05 14:34:48.f - RECEIVE from 60538 - System time: 1741203288.202117, Queue length: 0, Logical clock: 90
+2025-03-05 14:34:48.f - INTERNAL EVENT - System time: 1741203288.472143, Logical clock: 91
+2025-03-05 14:34:48.f - INTERNAL EVENT - System time: 1741203288.745406, Logical clock: 92
+2025-03-05 14:34:49.f - INTERNAL EVENT - System time: 1741203289.018278, Logical clock: 93
+2025-03-05 14:34:49.f - SEND to 5000 - System time: 1741203289.287349, Logical clock: 94
+2025-03-05 14:34:49.f - SEND to 5001 - System time: 1741203289.556309, Logical clock: 95
+2025-03-05 14:34:49.f - INTERNAL EVENT - System time: 1741203289.828004, Logical clock: 96
+2025-03-05 14:34:50.f - RECEIVE from 50193 - System time: 1741203290.000261, Queue length: 0, Logical clock: 97
+2025-03-05 14:34:50.f - SEND to 5000 - System time: 1741203290.273941, Logical clock: 98
+2025-03-05 14:34:50.f - SEND to 5001 - System time: 1741203290.274791, Logical clock: 99
+2025-03-05 14:34:50.f - SEND to 5001 - System time: 1741203290.543866, Logical clock: 100
+2025-03-05 14:34:50.f - RECEIVE from 50193 - System time: 1741203290.715784, Queue length: 0, Logical clock: 101
+2025-03-05 14:34:50.f - INTERNAL EVENT - System time: 1741203290.987920, Logical clock: 102
+2025-03-05 14:34:51.f - INTERNAL EVENT - System time: 1741203291.260845, Logical clock: 103
+2025-03-05 14:34:51.f - INTERNAL EVENT - System time: 1741203291.533912, Logical clock: 104
+2025-03-05 14:34:51.f - SEND to 5000 - System time: 1741203291.803816, Logical clock: 105
+2025-03-05 14:34:51.f - SEND to 5001 - System time: 1741203291.807049, Logical clock: 106
+2025-03-05 14:34:52.f - INTERNAL EVENT - System time: 1741203292.079220, Logical clock: 107
+2025-03-05 14:34:52.f - RECEIVE from 50193 - System time: 1741203292.251807, Queue length: 0, Logical clock: 108
+2025-03-05 14:34:52.f - INTERNAL EVENT - System time: 1741203292.523342, Logical clock: 109
+2025-03-05 14:34:52.f - INTERNAL EVENT - System time: 1741203292.792866, Logical clock: 110
+2025-03-05 14:34:53.f - INTERNAL EVENT - System time: 1741203293.064336, Logical clock: 111
+2025-03-05 14:34:53.f - SEND to 5000 - System time: 1741203293.334855, Logical clock: 112
+2025-03-05 14:34:53.f - SEND to 5001 - System time: 1741203293.335238, Logical clock: 113
+2025-03-05 14:34:53.f - INTERNAL EVENT - System time: 1741203293.608223, Logical clock: 114
+2025-03-05 14:34:53.f - SEND to 5001 - System time: 1741203293.879684, Logical clock: 115
+2025-03-05 14:34:54.f - INTERNAL EVENT - System time: 1741203294.149970, Logical clock: 116
+2025-03-05 14:34:54.f - SEND to 5000 - System time: 1741203294.420119, Logical clock: 117
+2025-03-05 14:34:54.f - SEND to 5001 - System time: 1741203294.420810, Logical clock: 118
+2025-03-05 14:34:54.f - SEND to 5001 - System time: 1741203294.700124, Logical clock: 119
+2025-03-05 14:34:54.f - INTERNAL EVENT - System time: 1741203294.973264, Logical clock: 120
+2025-03-05 14:34:55.f - INTERNAL EVENT - System time: 1741203295.242748, Logical clock: 121
+2025-03-05 14:34:55.f - INTERNAL EVENT - System time: 1741203295.512917, Logical clock: 122
+2025-03-05 14:34:55.f - RECEIVE from 50193 - System time: 1741203295.684947, Queue length: 0, Logical clock: 123
+2025-03-05 14:34:55.f - RECEIVE from 60538 - System time: 1741203295.859442, Queue length: 0, Logical clock: 124
+2025-03-05 14:34:56.f - INTERNAL EVENT - System time: 1741203296.133445, Logical clock: 125
+2025-03-05 14:34:56.f - SEND to 5000 - System time: 1741203296.405328, Logical clock: 126
+2025-03-05 14:34:56.f - SEND to 5001 - System time: 1741203296.406138, Logical clock: 127
+2025-03-05 14:34:56.f - SEND to 5001 - System time: 1741203296.678607, Logical clock: 128
+2025-03-05 14:34:56.f - SEND to 5000 - System time: 1741203296.952120, Logical clock: 129
+2025-03-05 14:34:56.f - SEND to 5001 - System time: 1741203296.952565, Logical clock: 130
+2025-03-05 14:34:57.f - SEND to 5000 - System time: 1741203297.225886, Logical clock: 131
+2025-03-05 14:34:57.f - SEND to 5001 - System time: 1741203297.226740, Logical clock: 132
+2025-03-05 14:34:57.f - SEND to 5001 - System time: 1741203297.499884, Logical clock: 133
+2025-03-05 14:34:57.f - RECEIVE from 50193 - System time: 1741203297.671778, Queue length: 0, Logical clock: 134
+2025-03-05 14:34:57.f - SEND to 5000 - System time: 1741203297.944348, Logical clock: 135
+2025-03-05 14:34:57.f - SEND to 5001 - System time: 1741203297.944949, Logical clock: 136
+2025-03-05 14:34:58.f - RECEIVE from 60538 - System time: 1741203298.116600, Queue length: 0, Logical clock: 137
+2025-03-05 14:34:58.f - INTERNAL EVENT - System time: 1741203298.389485, Logical clock: 138
+2025-03-05 14:34:58.f - RECEIVE from 60538 - System time: 1741203298.656053, Queue length: 0, Logical clock: 139
+2025-03-05 14:34:58.f - RECEIVE from 60538 - System time: 1741203298.926474, Queue length: 0, Logical clock: 140
+2025-03-05 14:34:59.f - INTERNAL EVENT - System time: 1741203299.198817, Logical clock: 141
+2025-03-05 14:34:59.f - INTERNAL EVENT - System time: 1741203299.472539, Logical clock: 142
+2025-03-05 14:34:59.f - SEND to 5000 - System time: 1741203299.747095, Logical clock: 143
+2025-03-05 14:35:00.f - INTERNAL EVENT - System time: 1741203300.020104, Logical clock: 144
+2025-03-05 14:35:00.f - INTERNAL EVENT - System time: 1741203300.290463, Logical clock: 145
+2025-03-05 14:35:00.f - RECEIVE from 60538 - System time: 1741203300.561289, Queue length: 0, Logical clock: 146
+2025-03-05 14:35:00.f - INTERNAL EVENT - System time: 1741203300.829076, Logical clock: 147
+2025-03-05 14:35:00.f - RECEIVE from 50193 - System time: 1741203300.999871, Queue length: 0, Logical clock: 148
+2025-03-05 14:35:01.f - INTERNAL EVENT - System time: 1741203301.272790, Logical clock: 149
+2025-03-05 14:35:01.f - SEND to 5000 - System time: 1741203301.546753, Logical clock: 150
+2025-03-05 14:35:01.f - INTERNAL EVENT - System time: 1741203301.819649, Logical clock: 151
+2025-03-05 14:35:01.f - RECEIVE from 60538 - System time: 1741203301.991568, Queue length: 0, Logical clock: 152
+2025-03-05 14:35:02.f - INTERNAL EVENT - System time: 1741203302.262290, Logical clock: 153
+2025-03-05 14:35:02.f - INTERNAL EVENT - System time: 1741203302.533836, Logical clock: 154
+2025-03-05 14:35:02.f - INTERNAL EVENT - System time: 1741203302.804180, Logical clock: 155
+2025-03-05 14:35:03.f - INTERNAL EVENT - System time: 1741203303.074764, Logical clock: 156
+2025-03-05 14:35:03.f - RECEIVE from 60538 - System time: 1741203303.243290, Queue length: 0, Logical clock: 157
+2025-03-05 14:35:03.f - INTERNAL EVENT - System time: 1741203303.516235, Logical clock: 158
+2025-03-05 14:35:03.f - INTERNAL EVENT - System time: 1741203303.786400, Logical clock: 159
+2025-03-05 14:35:04.f - INTERNAL EVENT - System time: 1741203304.059496, Logical clock: 160
+2025-03-05 14:35:04.f - INTERNAL EVENT - System time: 1741203304.332174, Logical clock: 161
+2025-03-05 14:35:04.f - INTERNAL EVENT - System time: 1741203304.604906, Logical clock: 162
+2025-03-05 14:35:04.f - INTERNAL EVENT - System time: 1741203304.878245, Logical clock: 163
+2025-03-05 14:35:05.f - RECEIVE from 50193 - System time: 1741203305.074953, Queue length: 0, Logical clock: 164
+2025-03-05 14:35:05.f - INTERNAL EVENT - System time: 1741203305.349831, Logical clock: 165
+2025-03-05 14:35:05.f - INTERNAL EVENT - System time: 1741203305.621539, Logical clock: 166
+2025-03-05 14:35:05.f - SEND to 5000 - System time: 1741203305.894993, Logical clock: 167
+2025-03-05 14:35:05.f - SEND to 5001 - System time: 1741203305.895778, Logical clock: 168
+2025-03-05 14:35:06.f - INTERNAL EVENT - System time: 1741203306.168258, Logical clock: 169
+2025-03-05 14:35:06.f - SEND to 5001 - System time: 1741203306.440774, Logical clock: 170
+2025-03-05 14:35:06.f - INTERNAL EVENT - System time: 1741203306.713262, Logical clock: 171
+2025-03-05 14:35:06.f - SEND to 5001 - System time: 1741203306.985311, Logical clock: 172
+2025-03-05 14:35:07.f - INTERNAL EVENT - System time: 1741203307.256706, Logical clock: 173
+2025-03-05 14:35:07.f - INTERNAL EVENT - System time: 1741203307.525244, Logical clock: 174
+2025-03-05 14:35:07.f - SEND to 5001 - System time: 1741203307.797775, Logical clock: 175
+2025-03-05 14:35:08.f - INTERNAL EVENT - System time: 1741203308.070648, Logical clock: 176
+2025-03-05 14:35:08.f - RECEIVE from 60538 - System time: 1741203308.238622, Queue length: 0, Logical clock: 177
+2025-03-05 14:35:08.f - INTERNAL EVENT - System time: 1741203308.509566, Logical clock: 178
+2025-03-05 14:35:08.f - RECEIVE from 50193 - System time: 1741203308.678825, Queue length: 0, Logical clock: 179
+2025-03-05 14:35:08.f - INTERNAL EVENT - System time: 1741203308.949700, Logical clock: 180
+2025-03-05 14:35:09.f - SEND to 5000 - System time: 1741203309.223183, Logical clock: 181
+2025-03-05 14:35:09.f - RECEIVE from 60538 - System time: 1741203309.455164, Queue length: 0, Logical clock: 182
+2025-03-05 14:35:09.f - INTERNAL EVENT - System time: 1741203309.728873, Logical clock: 183
+2025-03-05 14:35:09.f - RECEIVE from 60538 - System time: 1741203309.899930, Queue length: 0, Logical clock: 185
+2025-03-05 14:35:10.f - SEND to 5000 - System time: 1741203310.172959, Logical clock: 186
+2025-03-05 14:35:10.f - RECEIVE from 60538 - System time: 1741203310.345480, Queue length: 0, Logical clock: 187
+2025-03-05 14:35:10.f - INTERNAL EVENT - System time: 1741203310.615961, Logical clock: 188
+2025-03-05 14:35:10.f - RECEIVE from 60538 - System time: 1741203310.788260, Queue length: 0, Logical clock: 189
+2025-03-05 14:35:10.f - RECEIVE from 60538 - System time: 1741203310.990785, Queue length: 0, Logical clock: 191
+2025-03-05 14:35:11.f - INTERNAL EVENT - System time: 1741203311.262958, Logical clock: 192
+2025-03-05 14:35:11.f - SEND to 5000 - System time: 1741203311.537567, Logical clock: 193
+2025-03-05 14:35:11.f - SEND to 5001 - System time: 1741203311.539182, Logical clock: 194
+2025-03-05 14:35:11.f - INTERNAL EVENT - System time: 1741203311.809159, Logical clock: 195
+2025-03-05 14:35:11.f - RECEIVE from 50193 - System time: 1741203311.978756, Queue length: 0, Logical clock: 196
+2025-03-05 14:35:12.f - SEND to 5001 - System time: 1741203312.248920, Logical clock: 197
+2025-03-05 14:35:12.f - SEND to 5001 - System time: 1741203312.522250, Logical clock: 198
+2025-03-05 14:35:12.f - SEND to 5000 - System time: 1741203312.801891, Logical clock: 199
+2025-03-05 14:35:12.f - SEND to 5001 - System time: 1741203312.804637, Logical clock: 200
+2025-03-05 14:35:13.f - SEND to 5001 - System time: 1741203313.075606, Logical clock: 201
+2025-03-05 14:35:13.f - INTERNAL EVENT - System time: 1741203313.345184, Logical clock: 202
+2025-03-05 14:35:13.f - RECEIVE from 50193 - System time: 1741203313.517631, Queue length: 0, Logical clock: 203
+2025-03-05 14:35:13.f - SEND to 5000 - System time: 1741203313.790319, Logical clock: 204
+2025-03-05 14:35:13.f - SEND to 5001 - System time: 1741203313.791116, Logical clock: 205
+2025-03-05 14:35:14.f - INTERNAL EVENT - System time: 1741203314.063386, Logical clock: 206
+2025-03-05 14:35:14.f - SEND to 5000 - System time: 1741203314.337498, Logical clock: 207
+2025-03-05 14:35:14.f - SEND to 5001 - System time: 1741203314.338594, Logical clock: 208
+2025-03-05 14:35:14.f - INTERNAL EVENT - System time: 1741203314.611824, Logical clock: 209
+2025-03-05 14:35:14.f - INTERNAL EVENT - System time: 1741203314.884169, Logical clock: 210
+2025-03-05 14:35:15.f - INTERNAL EVENT - System time: 1741203315.155046, Logical clock: 211
+2025-03-05 14:35:15.f - INTERNAL EVENT - System time: 1741203315.427564, Logical clock: 212
+2025-03-05 14:35:15.f - INTERNAL EVENT - System time: 1741203315.696586, Logical clock: 213
+2025-03-05 14:35:15.f - INTERNAL EVENT - System time: 1741203315.967599, Logical clock: 214
+2025-03-05 14:35:16.f - SEND to 5000 - System time: 1741203316.239224, Logical clock: 215
+2025-03-05 14:35:16.f - SEND to 5001 - System time: 1741203316.239880, Logical clock: 216
+2025-03-05 14:35:16.f - INTERNAL EVENT - System time: 1741203316.515948, Logical clock: 217
+2025-03-05 14:35:16.f - INTERNAL EVENT - System time: 1741203316.788043, Logical clock: 218
+2025-03-05 14:35:17.f - INTERNAL EVENT - System time: 1741203317.062575, Logical clock: 219
+2025-03-05 14:35:17.f - INTERNAL EVENT - System time: 1741203317.334554, Logical clock: 220
+2025-03-05 14:35:17.f - RECEIVE from 50193 - System time: 1741203317.506736, Queue length: 0, Logical clock: 221
+2025-03-05 14:35:17.f - SEND to 5000 - System time: 1741203317.777894, Logical clock: 222
+2025-03-05 14:35:17.f - SEND to 5001 - System time: 1741203317.778462, Logical clock: 223
+2025-03-05 14:35:17.f - RECEIVE from 60538 - System time: 1741203317.951145, Queue length: 0, Logical clock: 224
+2025-03-05 14:35:18.f - INTERNAL EVENT - System time: 1741203318.223972, Logical clock: 225
+2025-03-05 14:35:18.f - SEND to 5001 - System time: 1741203318.496830, Logical clock: 226
+2025-03-05 14:35:18.f - SEND to 5000 - System time: 1741203318.769418, Logical clock: 227
+2025-03-05 14:35:18.f - SEND to 5001 - System time: 1741203318.769989, Logical clock: 228
+2025-03-05 14:35:19.f - INTERNAL EVENT - System time: 1741203319.039961, Logical clock: 229
+2025-03-05 14:35:19.f - INTERNAL EVENT - System time: 1741203319.308219, Logical clock: 230
+2025-03-05 14:35:19.f - RECEIVE from 60538 - System time: 1741203319.482426, Queue length: 0, Logical clock: 231
+2025-03-05 14:35:19.f - INTERNAL EVENT - System time: 1741203319.756069, Logical clock: 232
+2025-03-05 14:35:20.f - INTERNAL EVENT - System time: 1741203320.025986, Logical clock: 233
+2025-03-05 14:35:20.f - RECEIVE from 60538 - System time: 1741203320.199594, Queue length: 0, Logical clock: 234
+2025-03-05 14:35:20.f - INTERNAL EVENT - System time: 1741203320.472640, Logical clock: 235
+2025-03-05 14:35:20.f - SEND to 5001 - System time: 1741203320.743978, Logical clock: 236
+2025-03-05 14:35:21.f - INTERNAL EVENT - System time: 1741203321.012679, Logical clock: 237
+2025-03-05 14:35:21.f - INTERNAL EVENT - System time: 1741203321.283299, Logical clock: 238
+2025-03-05 14:35:21.f - SEND to 5001 - System time: 1741203321.554728, Logical clock: 239
+2025-03-05 14:35:21.f - RECEIVE from 50193 - System time: 1741203321.760129, Queue length: 0, Logical clock: 241
+2025-03-05 14:35:22.f - INTERNAL EVENT - System time: 1741203322.030090, Logical clock: 242
+2025-03-05 14:35:22.f - RECEIVE from 50193 - System time: 1741203322.201787, Queue length: 0, Logical clock: 243
+2025-03-05 14:35:22.f - INTERNAL EVENT - System time: 1741203322.470852, Logical clock: 244
+2025-03-05 14:35:22.f - SEND to 5001 - System time: 1741203322.740734, Logical clock: 245
+2025-03-05 14:35:23.f - SEND to 5000 - System time: 1741203323.015408, Logical clock: 246
+2025-03-05 14:35:23.f - SEND to 5001 - System time: 1741203323.286813, Logical clock: 247
+2025-03-05 14:35:23.f - SEND to 5000 - System time: 1741203323.560713, Logical clock: 248
+2025-03-05 14:35:23.f - SEND to 5001 - System time: 1741203323.561517, Logical clock: 249
+2025-03-05 14:35:23.f - SEND to 5000 - System time: 1741203323.832544, Logical clock: 250
+2025-03-05 14:35:24.f - INTERNAL EVENT - System time: 1741203324.105125, Logical clock: 251
+2025-03-05 14:35:24.f - RECEIVE from 60538 - System time: 1741203324.275780, Queue length: 0, Logical clock: 252
+2025-03-05 14:35:24.f - INTERNAL EVENT - System time: 1741203324.547917, Logical clock: 253
+2025-03-05 14:35:24.f - SEND to 5001 - System time: 1741203324.819805, Logical clock: 254
+2025-03-05 14:35:24.f - RECEIVE from 50193 - System time: 1741203324.996779, Queue length: 0, Logical clock: 255
+2025-03-05 14:35:25.f - INTERNAL EVENT - System time: 1741203325.269494, Logical clock: 256
+2025-03-05 14:35:25.f - RECEIVE from 50193 - System time: 1741203325.439563, Queue length: 0, Logical clock: 257
+2025-03-05 14:35:25.f - RECEIVE from 60538 - System time: 1741203325.609037, Queue length: 0, Logical clock: 258
+2025-03-05 14:35:25.f - INTERNAL EVENT - System time: 1741203325.882144, Logical clock: 259
+2025-03-05 14:35:26.f - SEND to 5001 - System time: 1741203326.155036, Logical clock: 260
+2025-03-05 14:35:26.f - INTERNAL EVENT - System time: 1741203326.428054, Logical clock: 261
+2025-03-05 14:35:26.f - RECEIVE from 60538 - System time: 1741203326.600147, Queue length: 0, Logical clock: 262
+2025-03-05 14:35:26.f - INTERNAL EVENT - System time: 1741203326.871532, Logical clock: 263
+2025-03-05 14:35:27.f - SEND to 5000 - System time: 1741203327.145144, Logical clock: 264
+2025-03-05 14:35:27.f - SEND to 5001 - System time: 1741203327.145900, Logical clock: 265
+2025-03-05 14:35:27.f - SEND to 5000 - System time: 1741203327.418799, Logical clock: 266
+2025-03-05 14:35:27.f - SEND to 5001 - System time: 1741203327.420817, Logical clock: 267
+2025-03-05 14:35:27.f - INTERNAL EVENT - System time: 1741203327.693523, Logical clock: 268
+2025-03-05 14:35:27.f - RECEIVE from 50193 - System time: 1741203327.861280, Queue length: 0, Logical clock: 269
+2025-03-05 14:35:28.f - SEND to 5001 - System time: 1741203328.131282, Logical clock: 270
+2025-03-05 14:35:28.f - Machine 2 shutdown

@@ -1,63 +1,120 @@
-2025-03-01 23:17:05.f - Starting machine 0 with clock rate 1 ticks/second
-2025-03-01 23:17:05.f - Internal event range: (4, 10)
-2025-03-01 23:17:05.f - INTERNAL EVENT - System time: 1740889025.968220, Logical clock: 1
-2025-03-01 23:17:06.f - RECEIVE from 57586 - System time: 1740889026.969182, Queue length: 0, Logical clock: 5
-2025-03-01 23:17:07.f - RECEIVE from 57586 - System time: 1740889027.972758, Queue length: 2, Logical clock: 10
-2025-03-01 23:17:08.f - RECEIVE from 57586 - System time: 1740889028.976513, Queue length: 2, Logical clock: 12
-2025-03-01 23:17:09.f - RECEIVE from 57586 - System time: 1740889029.981566, Queue length: 4, Logical clock: 18
-2025-03-01 23:17:10.f - RECEIVE from 57586 - System time: 1740889030.986624, Queue length: 5, Logical clock: 24
-2025-03-01 23:17:11.f - RECEIVE from 56480 - System time: 1740889031.991329, Queue length: 5, Logical clock: 25
-2025-03-01 23:17:12.f - RECEIVE from 57586 - System time: 1740889032.995195, Queue length: 4, Logical clock: 27
-2025-03-01 23:17:14.f - RECEIVE from 63043 - System time: 1740889034.000303, Queue length: 5, Logical clock: 28
-2025-03-01 23:17:15.f - RECEIVE from 63043 - System time: 1740889035.000402, Queue length: 8, Logical clock: 29
-2025-03-01 23:17:16.f - RECEIVE from 57586 - System time: 1740889036.000502, Queue length: 9, Logical clock: 36
-2025-03-01 23:17:17.f - RECEIVE from 56480 - System time: 1740889037.005278, Queue length: 11, Logical clock: 37
-2025-03-01 23:17:18.f - RECEIVE from 57586 - System time: 1740889038.007015, Queue length: 14, Logical clock: 50
-2025-03-01 23:17:19.f - RECEIVE from 56480 - System time: 1740889039.007500, Queue length: 17, Logical clock: 51
-2025-03-01 23:17:20.f - RECEIVE from 57586 - System time: 1740889040.007623, Queue length: 18, Logical clock: 55
-2025-03-01 23:17:21.f - RECEIVE from 57586 - System time: 1740889041.007767, Queue length: 18, Logical clock: 60
-2025-03-01 23:17:22.f - RECEIVE from 57586 - System time: 1740889042.012827, Queue length: 18, Logical clock: 61
-2025-03-01 23:17:23.f - RECEIVE from 57586 - System time: 1740889043.017873, Queue length: 19, Logical clock: 65
-2025-03-01 23:17:24.f - RECEIVE from 57586 - System time: 1740889044.017973, Queue length: 20, Logical clock: 68
-2025-03-01 23:17:25.f - RECEIVE from 57586 - System time: 1740889045.020227, Queue length: 20, Logical clock: 73
-2025-03-01 23:17:26.f - RECEIVE from 57586 - System time: 1740889046.023787, Queue length: 21, Logical clock: 76
-2025-03-01 23:17:27.f - RECEIVE from 57586 - System time: 1740889047.024453, Queue length: 23, Logical clock: 80
-2025-03-01 23:17:28.f - RECEIVE from 57586 - System time: 1740889048.024640, Queue length: 24, Logical clock: 87
-2025-03-01 23:17:29.f - RECEIVE from 56480 - System time: 1740889049.024803, Queue length: 24, Logical clock: 88
-2025-03-01 23:17:30.f - RECEIVE from 57586 - System time: 1740889050.025961, Queue length: 25, Logical clock: 89
-2025-03-01 23:17:31.f - RECEIVE from 56480 - System time: 1740889051.027186, Queue length: 26, Logical clock: 90
-2025-03-01 23:17:32.f - RECEIVE from 57586 - System time: 1740889052.027257, Queue length: 28, Logical clock: 91
-2025-03-01 23:17:33.f - RECEIVE from 63043 - System time: 1740889053.027316, Queue length: 30, Logical clock: 92
-2025-03-01 23:17:34.f - RECEIVE from 62215 - System time: 1740889054.027378, Queue length: 31, Logical clock: 93
-2025-03-01 23:17:35.f - RECEIVE from 57586 - System time: 1740889055.027438, Queue length: 33, Logical clock: 94
-2025-03-01 23:17:36.f - RECEIVE from 57586 - System time: 1740889056.027496, Queue length: 34, Logical clock: 98
-2025-03-01 23:17:37.f - RECEIVE from 57586 - System time: 1740889057.028029, Queue length: 33, Logical clock: 107
-2025-03-01 23:17:38.f - RECEIVE from 57586 - System time: 1740889058.028212, Queue length: 34, Logical clock: 111
-2025-03-01 23:17:39.f - RECEIVE from 62215 - System time: 1740889059.033281, Queue length: 35, Logical clock: 112
-2025-03-01 23:17:40.f - RECEIVE from 57586 - System time: 1740889060.038328, Queue length: 36, Logical clock: 119
-2025-03-01 23:17:41.f - RECEIVE from 56480 - System time: 1740889061.038405, Queue length: 36, Logical clock: 120
-2025-03-01 23:17:42.f - RECEIVE from 57586 - System time: 1740889062.043005, Queue length: 39, Logical clock: 127
-2025-03-01 23:17:43.f - RECEIVE from 63043 - System time: 1740889063.043106, Queue length: 40, Logical clock: 129
-2025-03-01 23:17:44.f - RECEIVE from 57586 - System time: 1740889064.043223, Queue length: 41, Logical clock: 137
-2025-03-01 23:17:45.f - RECEIVE from 57586 - System time: 1740889065.044658, Queue length: 43, Logical clock: 138
-2025-03-01 23:17:46.f - RECEIVE from 62215 - System time: 1740889066.047607, Queue length: 43, Logical clock: 143
-2025-03-01 23:17:47.f - RECEIVE from 56480 - System time: 1740889067.052656, Queue length: 44, Logical clock: 148
-2025-03-01 23:17:48.f - RECEIVE from 57586 - System time: 1740889068.057705, Queue length: 46, Logical clock: 154
-2025-03-01 23:17:49.f - RECEIVE from 57586 - System time: 1740889069.058221, Queue length: 46, Logical clock: 155
-2025-03-01 23:17:50.f - RECEIVE from 56480 - System time: 1740889070.058299, Queue length: 47, Logical clock: 158
-2025-03-01 23:17:51.f - RECEIVE from 56480 - System time: 1740889071.063351, Queue length: 46, Logical clock: 162
-2025-03-01 23:17:52.f - RECEIVE from 62215 - System time: 1740889072.068396, Queue length: 47, Logical clock: 163
-2025-03-01 23:17:53.f - RECEIVE from 62215 - System time: 1740889073.070686, Queue length: 49, Logical clock: 167
-2025-03-01 23:17:54.f - RECEIVE from 57586 - System time: 1740889074.074800, Queue length: 50, Logical clock: 174
-2025-03-01 23:17:55.f - RECEIVE from 57586 - System time: 1740889075.079865, Queue length: 50, Logical clock: 181
-2025-03-01 23:17:56.f - RECEIVE from 57586 - System time: 1740889076.080154, Queue length: 52, Logical clock: 186
-2025-03-01 23:17:57.f - RECEIVE from 57586 - System time: 1740889077.080275, Queue length: 53, Logical clock: 193
-2025-03-01 23:17:58.f - RECEIVE from 62215 - System time: 1740889078.084506, Queue length: 54, Logical clock: 194
-2025-03-01 23:17:59.f - RECEIVE from 57586 - System time: 1740889079.089609, Queue length: 53, Logical clock: 195
-2025-03-01 23:18:00.f - RECEIVE from 56480 - System time: 1740889080.091403, Queue length: 52, Logical clock: 196
-2025-03-01 23:18:01.f - RECEIVE from 62215 - System time: 1740889081.091550, Queue length: 52, Logical clock: 197
-2025-03-01 23:18:02.f - RECEIVE from 57586 - System time: 1740889082.091646, Queue length: 52, Logical clock: 202
-2025-03-01 23:18:03.f - RECEIVE from 57586 - System time: 1740889083.093901, Queue length: 53, Logical clock: 207
-2025-03-01 23:18:04.f - RECEIVE from 57586 - System time: 1740889084.094002, Queue length: 55, Logical clock: 213
-2025-03-01 23:18:05.f - RECEIVE from 57586 - System time: 1740889085.094072, Queue length: 55, Logical clock: 218
-2025-03-01 23:18:06.f - Machine 0 shutdown
+2025-03-05 14:32:25.f - Starting machine 0 with clock rate 2 ticks/second
+2025-03-05 14:32:25.f - Internal event range: (4, 10)
+2025-03-05 14:32:25.f - INTERNAL EVENT - System time: 1741203145.113567, Logical clock: 1
+2025-03-05 14:32:25.f - INTERNAL EVENT - System time: 1741203145.720168, Logical clock: 2
+2025-03-05 14:32:26.f - RECEIVE from 57828 - System time: 1741203146.225609, Queue length: 0, Logical clock: 4
+2025-03-05 14:32:26.f - RECEIVE from 57828 - System time: 1741203146.730961, Queue length: 0, Logical clock: 5
+2025-03-05 14:32:27.f - RECEIVE from 58683 - System time: 1741203147.235727, Queue length: 0, Logical clock: 11
+2025-03-05 14:32:27.f - RECEIVE from 57828 - System time: 1741203147.738598, Queue length: 0, Logical clock: 14
+2025-03-05 14:32:28.f - INTERNAL EVENT - System time: 1741203148.343877, Logical clock: 15
+2025-03-05 14:32:28.f - RECEIVE from 57828 - System time: 1741203148.847156, Queue length: 0, Logical clock: 18
+2025-03-05 14:32:29.f - RECEIVE from 57828 - System time: 1741203149.349223, Queue length: 0, Logical clock: 19
+2025-03-05 14:32:29.f - RECEIVE from 57828 - System time: 1741203149.853299, Queue length: 0, Logical clock: 24
+2025-03-05 14:32:30.f - RECEIVE from 57828 - System time: 1741203150.358796, Queue length: 0, Logical clock: 25
+2025-03-05 14:32:30.f - RECEIVE from 57828 - System time: 1741203150.861633, Queue length: 0, Logical clock: 29
+2025-03-05 14:32:31.f - RECEIVE from 58683 - System time: 1741203151.367257, Queue length: 0, Logical clock: 34
+2025-03-05 14:32:31.f - RECEIVE from 57828 - System time: 1741203151.870044, Queue length: 0, Logical clock: 37
+2025-03-05 14:32:32.f - INTERNAL EVENT - System time: 1741203152.475547, Logical clock: 38
+2025-03-05 14:32:32.f - RECEIVE from 57828 - System time: 1741203152.980974, Queue length: 0, Logical clock: 43
+2025-03-05 14:32:33.f - INTERNAL EVENT - System time: 1741203153.586625, Logical clock: 44
+2025-03-05 14:32:34.f - INTERNAL EVENT - System time: 1741203154.191481, Logical clock: 45
+2025-03-05 14:32:34.f - RECEIVE from 58683 - System time: 1741203154.696956, Queue length: 0, Logical clock: 52
+2025-03-05 14:32:35.f - RECEIVE from 57828 - System time: 1741203155.202481, Queue length: 0, Logical clock: 56
+2025-03-05 14:32:35.f - RECEIVE from 58683 - System time: 1741203155.707878, Queue length: 0, Logical clock: 57
+2025-03-05 14:32:36.f - RECEIVE from 58683 - System time: 1741203156.212692, Queue length: 0, Logical clock: 61
+2025-03-05 14:32:36.f - RECEIVE from 57828 - System time: 1741203156.717198, Queue length: 0, Logical clock: 62
+2025-03-05 14:32:37.f - RECEIVE from 57828 - System time: 1741203157.221097, Queue length: 0, Logical clock: 65
+2025-03-05 14:32:37.f - RECEIVE from 58683 - System time: 1741203157.726480, Queue length: 0, Logical clock: 66
+2025-03-05 14:32:38.f - INTERNAL EVENT - System time: 1741203158.330530, Logical clock: 67
+2025-03-05 14:32:38.f - INTERNAL EVENT - System time: 1741203158.932570, Logical clock: 68
+2025-03-05 14:32:39.f - RECEIVE from 57828 - System time: 1741203159.434715, Queue length: 0, Logical clock: 73
+2025-03-05 14:32:39.f - RECEIVE from 58683 - System time: 1741203159.937140, Queue length: 0, Logical clock: 79
+2025-03-05 14:32:40.f - SEND to 5001 - System time: 1741203160.547929, Logical clock: 80
+2025-03-05 14:32:40.f - SEND to 5002 - System time: 1741203160.548429, Logical clock: 81
+2025-03-05 14:32:40.f - SEND to 5003 - System time: 1741203160.548792, Logical clock: 82
+2025-03-05 14:32:40.f - SEND to 5004 - System time: 1741203160.549123, Logical clock: 83
+2025-03-05 14:32:41.f - INTERNAL EVENT - System time: 1741203161.155453, Logical clock: 84
+2025-03-05 14:32:41.f - INTERNAL EVENT - System time: 1741203161.756990, Logical clock: 85
+2025-03-05 14:32:42.f - RECEIVE from 58683 - System time: 1741203162.261709, Queue length: 0, Logical clock: 87
+2025-03-05 14:32:42.f - RECEIVE from 57828 - System time: 1741203162.764307, Queue length: 0, Logical clock: 91
+2025-03-05 14:32:43.f - RECEIVE from 57828 - System time: 1741203163.269970, Queue length: 0, Logical clock: 97
+2025-03-05 14:32:43.f - RECEIVE from 58683 - System time: 1741203163.775396, Queue length: 0, Logical clock: 98
+2025-03-05 14:32:44.f - RECEIVE from 58683 - System time: 1741203164.279672, Queue length: 0, Logical clock: 102
+2025-03-05 14:32:44.f - INTERNAL EVENT - System time: 1741203164.883550, Logical clock: 103
+2025-03-05 14:32:45.f - RECEIVE from 58683 - System time: 1741203165.387606, Queue length: 0, Logical clock: 108
+2025-03-05 14:32:45.f - RECEIVE from 57828 - System time: 1741203165.893048, Queue length: 0, Logical clock: 111
+2025-03-05 14:32:46.f - RECEIVE from 58683 - System time: 1741203166.397545, Queue length: 0, Logical clock: 116
+2025-03-05 14:32:46.f - RECEIVE from 57828 - System time: 1741203166.903010, Queue length: 0, Logical clock: 119
+2025-03-05 14:32:47.f - RECEIVE from 58683 - System time: 1741203167.404301, Queue length: 0, Logical clock: 124
+2025-03-05 14:32:47.f - RECEIVE from 57828 - System time: 1741203167.913002, Queue length: 0, Logical clock: 126
+2025-03-05 14:32:48.f - RECEIVE from 57828 - System time: 1741203168.418417, Queue length: 0, Logical clock: 133
+2025-03-05 14:32:49.f - SEND to 5002 - System time: 1741203169.023075, Logical clock: 134
+2025-03-05 14:32:49.f - RECEIVE from 57828 - System time: 1741203169.526589, Queue length: 0, Logical clock: 137
+2025-03-05 14:32:50.f - RECEIVE from 57828 - System time: 1741203170.031981, Queue length: 0, Logical clock: 142
+2025-03-05 14:32:50.f - RECEIVE from 58683 - System time: 1741203170.533081, Queue length: 0, Logical clock: 143
+2025-03-05 14:32:51.f - RECEIVE from 58683 - System time: 1741203171.034153, Queue length: 0, Logical clock: 144
+2025-03-05 14:32:51.f - RECEIVE from 57828 - System time: 1741203171.536404, Queue length: 0, Logical clock: 145
+2025-03-05 14:32:52.f - RECEIVE from 49757 - System time: 1741203172.041796, Queue length: 0, Logical clock: 146
+2025-03-05 14:32:52.f - RECEIVE from 57828 - System time: 1741203172.542793, Queue length: 0, Logical clock: 148
+2025-03-05 14:32:53.f - RECEIVE from 58683 - System time: 1741203173.047165, Queue length: 0, Logical clock: 152
+2025-03-05 14:32:53.f - RECEIVE from 58683 - System time: 1741203173.552412, Queue length: 0, Logical clock: 156
+2025-03-05 14:32:54.f - RECEIVE from 58683 - System time: 1741203174.057886, Queue length: 0, Logical clock: 161
+2025-03-05 14:32:54.f - RECEIVE from 57828 - System time: 1741203174.560668, Queue length: 0, Logical clock: 164
+2025-03-05 14:32:55.f - RECEIVE from 57828 - System time: 1741203175.066077, Queue length: 0, Logical clock: 166
+2025-03-05 14:32:55.f - RECEIVE from 57828 - System time: 1741203175.570129, Queue length: 0, Logical clock: 168
+2025-03-05 14:32:56.f - RECEIVE from 57828 - System time: 1741203176.074368, Queue length: 0, Logical clock: 170
+2025-03-05 14:32:56.f - RECEIVE from 58683 - System time: 1741203176.582897, Queue length: 0, Logical clock: 173
+2025-03-05 14:32:57.f - RECEIVE from 57828 - System time: 1741203177.085155, Queue length: 0, Logical clock: 175
+2025-03-05 14:32:57.f - RECEIVE from 58683 - System time: 1741203177.587964, Queue length: 0, Logical clock: 177
+2025-03-05 14:32:58.f - RECEIVE from 58683 - System time: 1741203178.095863, Queue length: 0, Logical clock: 184
+2025-03-05 14:32:58.f - RECEIVE from 58683 - System time: 1741203178.602348, Queue length: 0, Logical clock: 188
+2025-03-05 14:32:59.f - INTERNAL EVENT - System time: 1741203179.208196, Logical clock: 189
+2025-03-05 14:32:59.f - RECEIVE from 58683 - System time: 1741203179.719197, Queue length: 0, Logical clock: 195
+2025-03-05 14:33:00.f - RECEIVE from 57828 - System time: 1741203180.219750, Queue length: 0, Logical clock: 196
+2025-03-05 14:33:00.f - INTERNAL EVENT - System time: 1741203180.823649, Logical clock: 197
+2025-03-05 14:33:01.f - RECEIVE from 57828 - System time: 1741203181.329401, Queue length: 0, Logical clock: 200
+2025-03-05 14:33:01.f - RECEIVE from 57828 - System time: 1741203181.834819, Queue length: 0, Logical clock: 203
+2025-03-05 14:33:02.f - RECEIVE from 58683 - System time: 1741203182.426407, Queue length: 0, Logical clock: 208
+2025-03-05 14:33:03.f - SEND to 5001 - System time: 1741203183.035002, Logical clock: 209
+2025-03-05 14:33:03.f - RECEIVE from 58683 - System time: 1741203183.537981, Queue length: 0, Logical clock: 213
+2025-03-05 14:33:04.f - RECEIVE from 57828 - System time: 1741203184.042588, Queue length: 0, Logical clock: 215
+2025-03-05 14:33:04.f - INTERNAL EVENT - System time: 1741203184.650896, Logical clock: 216
+2025-03-05 14:33:05.f - INTERNAL EVENT - System time: 1741203185.255472, Logical clock: 217
+2025-03-05 14:33:05.f - RECEIVE from 57828 - System time: 1741203185.760861, Queue length: 0, Logical clock: 224
+2025-03-05 14:33:06.f - RECEIVE from 58683 - System time: 1741203186.265920, Queue length: 0, Logical clock: 225
+2025-03-05 14:33:06.f - RECEIVE from 63942 - System time: 1741203186.766485, Queue length: 0, Logical clock: 226
+2025-03-05 14:33:07.f - RECEIVE from 58683 - System time: 1741203187.270472, Queue length: 0, Logical clock: 227
+2025-03-05 14:33:07.f - RECEIVE from 58683 - System time: 1741203187.775295, Queue length: 0, Logical clock: 228
+2025-03-05 14:33:08.f - RECEIVE from 58683 - System time: 1741203188.278499, Queue length: 0, Logical clock: 234
+2025-03-05 14:33:08.f - RECEIVE from 57828 - System time: 1741203188.783545, Queue length: 0, Logical clock: 235
+2025-03-05 14:33:09.f - RECEIVE from 58683 - System time: 1741203189.304710, Queue length: 0, Logical clock: 241
+2025-03-05 14:33:09.f - INTERNAL EVENT - System time: 1741203189.907372, Logical clock: 242
+2025-03-05 14:33:10.f - RECEIVE from 63942 - System time: 1741203190.484387, Queue length: 0, Logical clock: 245
+2025-03-05 14:33:11.f - INTERNAL EVENT - System time: 1741203191.090128, Logical clock: 246
+2025-03-05 14:33:11.f - INTERNAL EVENT - System time: 1741203191.696152, Logical clock: 247
+2025-03-05 14:33:12.f - RECEIVE from 57828 - System time: 1741203192.200946, Queue length: 0, Logical clock: 253
+2025-03-05 14:33:12.f - INTERNAL EVENT - System time: 1741203192.807069, Logical clock: 254
+2025-03-05 14:33:13.f - INTERNAL EVENT - System time: 1741203193.412608, Logical clock: 255
+2025-03-05 14:33:13.f - RECEIVE from 63942 - System time: 1741203193.916019, Queue length: 0, Logical clock: 256
+2025-03-05 14:33:14.f - RECEIVE from 58683 - System time: 1741203194.420615, Queue length: 0, Logical clock: 259
+2025-03-05 14:33:14.f - RECEIVE from 49757 - System time: 1741203194.926020, Queue length: 0, Logical clock: 261
+2025-03-05 14:33:15.f - RECEIVE from 58683 - System time: 1741203195.431535, Queue length: 0, Logical clock: 265
+2025-03-05 14:33:16.f - INTERNAL EVENT - System time: 1741203196.037783, Logical clock: 266
+2025-03-05 14:33:16.f - RECEIVE from 58683 - System time: 1741203196.542894, Queue length: 0, Logical clock: 273
+2025-03-05 14:33:17.f - RECEIVE from 58683 - System time: 1741203197.048496, Queue length: 0, Logical clock: 275
+2025-03-05 14:33:17.f - RECEIVE from 58683 - System time: 1741203197.555902, Queue length: 0, Logical clock: 276
+2025-03-05 14:33:18.f - RECEIVE from 57828 - System time: 1741203198.064259, Queue length: 0, Logical clock: 279
+2025-03-05 14:33:18.f - RECEIVE from 57828 - System time: 1741203198.568256, Queue length: 0, Logical clock: 282
+2025-03-05 14:33:19.f - RECEIVE from 58683 - System time: 1741203199.071827, Queue length: 0, Logical clock: 283
+2025-03-05 14:33:19.f - INTERNAL EVENT - System time: 1741203199.675394, Logical clock: 284
+2025-03-05 14:33:20.f - RECEIVE from 63942 - System time: 1741203200.178534, Queue length: 0, Logical clock: 287
+2025-03-05 14:33:20.f - RECEIVE from 57828 - System time: 1741203200.683801, Queue length: 0, Logical clock: 292
+2025-03-05 14:33:21.f - RECEIVE from 57828 - System time: 1741203201.189376, Queue length: 0, Logical clock: 296
+2025-03-05 14:33:21.f - RECEIVE from 57828 - System time: 1741203201.693564, Queue length: 0, Logical clock: 301
+2025-03-05 14:33:22.f - RECEIVE from 57828 - System time: 1741203202.198489, Queue length: 0, Logical clock: 305
+2025-03-05 14:33:22.f - RECEIVE from 58683 - System time: 1741203202.703793, Queue length: 0, Logical clock: 310
+2025-03-05 14:33:23.f - RECEIVE from 57828 - System time: 1741203203.208610, Queue length: 0, Logical clock: 313
+2025-03-05 14:33:23.f - RECEIVE from 57828 - System time: 1741203203.750522, Queue length: 0, Logical clock: 318
+2025-03-05 14:33:24.f - INTERNAL EVENT - System time: 1741203204.356737, Logical clock: 319
+2025-03-05 14:33:24.f - INTERNAL EVENT - System time: 1741203204.963153, Logical clock: 320
+2025-03-05 14:33:25.f - Machine 0 shutdown
